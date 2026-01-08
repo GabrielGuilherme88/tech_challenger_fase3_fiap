@@ -42,7 +42,7 @@ Este projeto busca:
 
 ### 2️⃣ Modelagem Supervisionada e Não Supervisionada
 
-  **Modelagem Supervisionad**:
+  **Modelagem Supervisionada**:
 
 ### 🎯 Definição do Target para Supervisionada
 Classificação binária:
