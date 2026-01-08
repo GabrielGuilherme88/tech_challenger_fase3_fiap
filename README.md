@@ -155,6 +155,6 @@ Foram calculadas métricas por cluster:
 - **Scikit-learn**
 - **Matplotlib / Seaborn**
 - **Folium (mapas interativos)**
-- **Jupyter Notebook / Databricks**
+- **Jupyter Notebook
 
 ---
