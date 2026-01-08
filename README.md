@@ -40,7 +40,17 @@ Este projeto busca:
 
 ---
 
-### 2️⃣ Modelagem Não Supervisionada
+### 2️⃣ Modelagem Supervisionada e Não Supervisionada
+
+  **Modelagem Supervisionad**:
+
+### 🎯 Definição do Target para Supervisionada
+Classificação binária:
+
+- `DELAYED = 1` → atraso acima do limite (ex.: > 15 minutos)
+- `DELAYED = 0` → voo pontual
+
+  **Modelagem Não Supervisionada**
 
 #### 🔹 Redução de Dimensionalidade (PCA)
 - Aplicada sobre variáveis numéricas para reduzir dimensionalidade.
@@ -148,6 +158,3 @@ Foram calculadas métricas por cluster:
 - **Jupyter Notebook / Databricks**
 
 ---
-
-## 📂 Estrutura do Repositório
-
